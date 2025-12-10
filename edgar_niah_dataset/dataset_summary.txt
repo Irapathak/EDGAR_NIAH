@@ -1,0 +1,26 @@
+EDGAR NIAH Dataset Summary Report
+============================================================
+
+Total Examples: 150
+Unique Filings: 25
+Unique Companies: 5
+
+Method Distribution:
+  extract: 75
+  insert: 75
+
+Filing Type Distribution:
+  10-Q: 114
+  10-K: 36
+
+Haystack Length Statistics:
+  Mean: 175329
+  Median: 188443
+  Min: 21950
+  Max: 415775
+
+Needle Length Statistics:
+  Mean: 3901.0
+  Median: 58.5
+  Min: 20
+  Max: 39288
